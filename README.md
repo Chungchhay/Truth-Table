@@ -1,5 +1,5 @@
 # Truth-Table
-A simple truth table from discrete math class 
+A simple truth table from discrete math class that generate a truth table when giving the input variables
 
 Given : 
 x * y > y < y + z * - z
